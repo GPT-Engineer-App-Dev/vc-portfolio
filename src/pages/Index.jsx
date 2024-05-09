@@ -16,9 +16,9 @@ const Index = () => {
           Our Portfolio
         </Heading>
         <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={5}>
-          <PortfolioItem title="Startup A" description="A leading AI solutions provider" imageSrc="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxBSSUyMHRlY2hub2xvZ3klMjBzdGFydHVwfGVufDB8fHx8MTcxNTI2MTE3Nnww&ixlib=rb-4.0.3&q=80&w=1080" />
-          <PortfolioItem title="Startup B" description="Revolutionizing blockchain technology" imageSrc="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxibG9ja2NoYWluJTIwdGVjaG5vbG9neSUyMHN0YXJ0dXB8ZW58MHx8fHwxNzE1MjYxMTc2fDA&ixlib=rb-4.0.3&q=80&w=1080" />
-          <PortfolioItem title="Startup C" description="Innovative fintech services" imageSrc="https://images.unsplash.com/photo-1561525155-40a650192479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxmaW50ZWNoJTIwc3RhcnR1cHxlbnwwfHx8fDE3MTUyNjExNzd8MA&ixlib=rb-4.0.3&q=80&w=1080" />
+          <PortfolioItem title="Startup A" description="A leading AI solutions provider" imageSrc="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" />
+          <PortfolioItem title="Startup B" description="Revolutionizing blockchain technology" imageSrc="https://images.unsplash.com/photo-1534723452862-4c874018d66d?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" />
+          <PortfolioItem title="Startup C" description="Innovative fintech services" imageSrc="https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" />
         </SimpleGrid>
       </Box>
 
